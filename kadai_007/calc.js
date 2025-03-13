@@ -15,5 +15,5 @@ else if ((num % 3) == 0) {
 } 
 
 else {
-  console.log('num')
+  console.log(num)
 }
